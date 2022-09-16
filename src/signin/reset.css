@@ -1,0 +1,21 @@
+.reset {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  }
+  .reset__container {
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    background-color: #add8e680;
+    padding: 50px;
+    border-radius: 20px;
+  }
+  .reset__btn {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .reset div {
+    margin-top: 10px;
+  }
